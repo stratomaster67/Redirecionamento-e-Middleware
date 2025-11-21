@@ -1,0 +1,5 @@
+[2025-11-21T22:10:06.012Z] IP: ::1 | GET / | STATUS: 302 | TEMPO: 4ms
+[2025-11-21T22:10:06.016Z] IP: ::1 | GET /login | STATUS: 401 | TEMPO: 1ms
+[2025-11-21T22:10:06.181Z] IP: ::1 | GET /favicon.ico | STATUS: 404 | TEMPO: 0ms
+[2025-11-21T22:10:58.567Z] IP: ::1 | GET /login?auth=true | STATUS: 302 | TEMPO: 0ms
+[2025-11-21T22:10:58.572Z] IP: ::1 | GET /dashboard?source=query | STATUS: 200 | TEMPO: 1ms
